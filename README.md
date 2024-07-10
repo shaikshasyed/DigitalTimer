@@ -4,8 +4,7 @@
 </div>
 <br/>
 
-Functionality
-<details>
+Functionality:
 - The default timer limit value should be 25 minutes
 - When the **Start** button is clicked,
   - The **Start** text should change to **Pause** text
@@ -45,6 +44,5 @@ Functionality
   - Initial **Timer** limit value should be displayed
   - Both the **Plus** and **Minus** buttons should be enabled
 
-</details>
 
 
